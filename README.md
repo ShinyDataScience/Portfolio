@@ -1,2 +1,2 @@
 # Portfolio
- Examples of anaysis Big Data
+ Examples of Big Data Analysis.
